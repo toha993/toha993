@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MySQL,JAVA,C++,Android Development**
 
-- 📫 How to reach me **tohasadat993@gmail.com**
+- 📫 How to reach me **On Facebook**
 
 - ⚡ Fun fact **I think I am not Funny**
 
