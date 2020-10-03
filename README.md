@@ -1,9 +1,5 @@
 ![](https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif)
 
-<a href="https://trackgit.com">
-<img src="https://sfy.cx/u/wP5" alt="trackgit-views" />
-</a>
-
 
 <h1 align="center">Hi 👋, I'm Mutasim Billah</h1>
 <h3 align="center">A Passionate Learner</h3>
