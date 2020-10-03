@@ -1,6 +1,3 @@
-![](https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif)
-
-
 <h1 align="center">Hi 👋, I'm Mutasim Billah</h1>
 <h3 align="center">A Passionate Learner</h3>
 
