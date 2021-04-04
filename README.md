@@ -25,9 +25,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toha993&layout=compact"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toha993&theme=radical&layout=compact"/></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime/?username=toha993"/></p>
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=toha993&count_private=true&show_icons=true&theme=radical" /></p>
 
