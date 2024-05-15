@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toha993" alt="toha993" /> </p>
 
-- 🌱 I’m currently learning **Nodejs,MySQL**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MySQL,JAVA,C++,Android Development**
+- 💬 Ask me about **.NET, Angular, React, Node, Python**
 
 - 📫 How to reach me **On Facebook**
-
-- ⚡ Fun fact **I think I am not Funny**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
