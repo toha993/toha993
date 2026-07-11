@@ -12,7 +12,7 @@
 
 ## 💼 Professional Experience
 
-### **Software Engineer I** at **Optimizely** _(Mar 2024 - Present)_
+### **Software Engineer II** at **Optimizely** _(Mar 2024 - Present)_
 
 - **Design System Development**: Created a comprehensive React component library (Axiom) using RadixUI and Vanilla Extract, enabling consistent UI/UX across projects
   - Link: [OptiAxiom Design System](https://optimizely-axiom.github.io/optiaxiom)
